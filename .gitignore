@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java: Gradle
+.gradle/
+build/
+
+# Java: Maven
+target/
+
+# Скомпилированные классы
+*.class
+
+# Логи
+*.log
