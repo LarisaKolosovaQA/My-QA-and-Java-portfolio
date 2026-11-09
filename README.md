@@ -21,7 +21,17 @@
 
 ## Проекты
 
-_Раздел будет пополняться._
+### Тестирование
+
+- [QA Fundamentals](testing/qa-fundamentals/README.md) — основы тестирования,
+  тестовые артефакты, тест-дизайн, виды и уровни тестирования.
+- [Дефекты](testing/defects/README.md) — виды дефектов, баг-репорты,
+  жизненный цикл.
+- [Тестирование веб-приложений](testing/web-testing/README.md) — DevTools,
+  HTTP/HTTPS, cookies, UI/UX, валидация HTML.
+- [Тестирование backend](testing/backend-testing/README.md) — REST API,
+  Postman, базы данных.
+- [Ресурсы для практики](testing/resources.md)
 
 ## Контакты
 
